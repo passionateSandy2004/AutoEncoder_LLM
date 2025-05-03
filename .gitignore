@@ -34,7 +34,6 @@ ENV/
 # Project specific
 autoencoder.py
 saved_models/
-saved_model2FineTune/
 *.pth
 *.pt
 *.pkl
