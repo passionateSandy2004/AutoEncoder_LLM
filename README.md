@@ -105,7 +105,7 @@ print(response)
 - Vocabulary Size: ~1800 tokens
 - Embedding Dimension: 64
 - Hidden Dimension: 32
-- Latent Dimension: 16
+- Latent Dimension: 124
 - Batch Size: 16
 
 ### Training Parameters
