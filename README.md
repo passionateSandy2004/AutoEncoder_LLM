@@ -29,7 +29,7 @@ The model will load the pre-trained weights from `saved_model2FineTune/` and be 
    - Decoder: Reconstructs sequences from latent representations
    - Latent Space: Captures semantic meaning of input sequences
 
-2. **Transition Network**
+2. **Transition Network (Thinking Net)**
    - Sparse Mixture of Experts (MoE): Handles complex transformations
    - Key-Value Memory: Stores and retrieves relevant information
    - Gated MLP Blocks: Processes and refines representations
